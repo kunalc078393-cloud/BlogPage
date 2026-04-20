@@ -34,7 +34,6 @@ src/
  ├── App.css
  ├── main.jsx
  └── index.html
-
 ---
 
 ## ⚙️ Features
