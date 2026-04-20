@@ -1,0 +1,28 @@
+@import "tailwindcss";
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+@layer base {
+    :root {
+        --primaryDark: #880D1E;
+        --primary: #DD2D4A;
+        --softPink: #F26A8D;
+        --lightPink: #F49CBB;
+        --ice: #CBEEF3;
+    }
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+        transform: translateY(15px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-fade-in {
+    animation: fade-in 0.8s ease-out forwards;
+}
