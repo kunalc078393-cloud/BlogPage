@@ -14,28 +14,6 @@ BlogPage is a modern React-based single-page application built using Vite. It in
 
 ---
 
-## 📁 Project Structure
-src/
- ├── Components/
- │    ├── About/
- │    │    └── About.jsx
- │    ├── ContactUs/
- │    │    └── Contact.jsx
- │    ├── Footer/
- │    │    └── Footer.jsx
- │    ├── Header/
- │    │    └── Header.jsx
- │    ├── Home/
- │    │    └── Home.jsx
- │    └── Skill/
- │         └── Skill.jsx
- │
- ├── App.jsx
- ├── App.css
- ├── main.jsx
- └── index.html
----
-
 ## ⚙️ Features
 - Multi-page SPA using React Router
 - Component-based architecture
