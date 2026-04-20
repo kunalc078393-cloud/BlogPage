@@ -10,7 +10,7 @@ export default function Home() {
 
                     <img
                         className="w-full h-full object-cover"
-                        src=""
+                        src="https://images.pexels.com/photos/33579599/pexels-photo-33579599.jpeg"
                         alt=""
                     />
                 </div>
