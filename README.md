@@ -62,9 +62,3 @@ npm install
 npm run dev
 ```
 
-📌 Learning Outcomes
-React routing and navigation
-Component structuring best practices
-State management using hooks
-Vite project setup and optimization
-UI modular design approach
